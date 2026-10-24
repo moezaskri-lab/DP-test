@@ -1,7 +1,23 @@
 # Référentiel DP Gexpertise
 
-## Documents disponibles
+## Objectif
 
-- Référentiel Analyse DP V1
-- Checklist DP Gexpertise
-- Règles de calcul du taux de complétude
+Ce référentiel définit les règles d'analyse utilisées pour contrôler
+la complétude d'un dossier de Déclaration Préalable.
+
+## Informations obligatoires
+
+### Identification
+
+- Commune
+- Adresse
+- Référence cadastrale
+- Pétitionnaire
+
+### Projet
+
+- Nature des travaux
+- Description de l'existant
+- Description des travaux
+
+...
