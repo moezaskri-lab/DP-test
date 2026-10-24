@@ -24,3 +24,9 @@ la complétude d'un dossier de Déclaration Préalable.
 
 Un dossier est considéré comme exploitable lorsque son
 taux de complétude est supérieur ou égal à 85 %.
+
+## Critère interne Gexpertise
+
+Code de validation : DP-GEX-2026-001
+
+Ce code est utilisé uniquement pour vérifier que l'assistant consulte correctement le référentiel.
