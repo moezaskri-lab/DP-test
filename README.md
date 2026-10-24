@@ -20,4 +20,7 @@ la complétude d'un dossier de Déclaration Préalable.
 - Description de l'existant
 - Description des travaux
 
-Code de test : DP-GEX-2026-ALPHA-987
+## Critère de validation interne
+
+Un dossier est considéré comme exploitable lorsque son
+taux de complétude est supérieur ou égal à 85 %.
